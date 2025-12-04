@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce rapport présente une analyse approfondie du fichier *AntiFraud Centre Dataset.csv* ainsi que du notebook *Detection_de_fraude.ipynb*. L’objectif est de comprendre la nature des données disponibles, d’identifier les principales problématiques de qualité des données, puis d’évaluer leur potentiel dans un processus de détection de fraude. L’étude repose sur l’examen des premières entrées du dataset, sur une analyse statistique préliminaire et sur l’inspection de la structure générale du notebook.
+ L’objectif est de comprendre la nature des données disponibles, d’identifier les principales problématiques de qualité des données, puis d’évaluer leur potentiel dans un processus de détection de fraude. L’étude repose sur l’examen des premières entrées du dataset, sur une analyse statistique préliminaire et sur l’inspection de la structure générale du notebook.
 
 ## 1. Présentation générale des données
 
