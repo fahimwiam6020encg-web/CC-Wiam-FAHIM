@@ -1,4 +1,4 @@
-# Rapport détaillé – Analyse du Dataset AntiFraud et du Notebook de Détection de Fraude
+# Rapport Analyse du Dataset AntiFraud 
 
 ## Introduction
 
